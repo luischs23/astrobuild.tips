@@ -2,8 +2,9 @@
 title: "Hello World"
 pubDate: 2024-07-15
 description: "Hello this is my first recomendation"
-image:
+image: "../../notasimages/nexos.png"
 tags: ["astro", "javascript"]   
+layout: "../../layouts/Posts.astro"
 ---
 
 Lorem ipsum dolor sit amet. Quo quasi natus et quaerat porro in natus rerum ab voluptatem debitis quo dignissimos voluptates sed iusto nostrum. Qui facilis repudiandae eos provident vero aut doloribus numquam et ipsum harum ad veniam alias. Qui facilis assumenda ex galisum atque ea voluptatem quas.
